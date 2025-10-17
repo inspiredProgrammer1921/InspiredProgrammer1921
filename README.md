@@ -1,16 +1,23 @@
-## Hi there 👋
+<!Hi there 👋>
 
-<!--
-**inspiredProgrammer1921/InspiredProgrammer1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nick, a prgramming enthusiast based in the U.S.  
 
-Here are some ideas to get you started:
+I currently code whatever looks really interesting to me so I can learn all that I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Following as many coding projects as I can to combine code and practical problem-solving. Doing everything I can to work with code as much as possible. 
+
+Currently learning to work with HTML, CSS, JavaScript, and GitHub.  
+
+My future goals include full-stack web development, AI, & drone automation.
+
+---
+
+Fun Facts:
+
+- I'm married with one awesome little boy
+- I'm a career Firefighter
+- Hobbies: Working out, mountain biking, disc golf.
+
+
+If you want to connect, feel free to reach out! I'd love to learn/do some networking.
+
